@@ -1,5 +1,5 @@
-# Tặng Crush
-## _Một điều nho nhỏ tỏ tình với crush_
+# Hương à
+## _t bảo m cái nàyyyy_
 
 Liên lạc: 
 [![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
@@ -8,23 +8,20 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Hươnggg à!',
+    introDesc: ' Tối làm trận lol điiiiii`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
+    title: 'chơi nhé !!!!! 😙',
+    desc:' Năn nỉ m luôn ấy :(( ',
+    btnYes: 'okee bạn iuuu <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    question: ' tối 9h chơi nhé m <3',
+    btnReply: 'gửi cho t :v',
+    reply: 'chơi thì chơi mà không chơi thì chơi',
+    mess: 't biết mà hahahah 😘😘',
+    messDesc: 'nhớ 9h tối đấy Hương nhá.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://facebook.com/thanhtrung281003' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 ```
 
